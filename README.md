@@ -1,6 +1,6 @@
 ### Olá eu sou João Pedro 👋
 
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp27082003&show_icons=true&theme=tokyonight)
+![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jp27082003&show_icons=true&theme=tokyonight) 
 
 ### Tecnologias 
 
