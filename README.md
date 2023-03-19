@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0078d7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0078d7&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!!+Meu+nome+é+João+Pedro+Bastos+Costa;Tenho+19+anos;Eu+sou+de+Osasco,+SP;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0078d7&size=35&center=true&vCenter=true&width=1000&lines=HELLO!!+My+name+is+João+Pedro+Bastos+Costa;I+have+19+years+old;I'm+from+Brazil,+SP;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JP27082003&show_icons=true&count_private=true&hide_border=true&title_color=0078d7&icon_color=0078d7&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro github stats" /> 
@@ -24,7 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Studying in this moment 
+### Studying in this moment: 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 <div align="center">
